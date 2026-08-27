@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitika</h1>
 
-<h3 align="center">Software Developer | AI/ML Enthusiast | Full-Stack Developer | UI/UX Designer</h3>
+<h3 align="center">Software Developer | Full-Stack Developer | AI/ML Enthusiast | UI/UX Designer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nitikakalra&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -10,35 +10,13 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 Computer Science & Engineering graduate from **Lovely Professional University**
-* 💻 Passionate about **Software Development, AI/ML, and Full-Stack Development**
-* 🤖 Currently building and working with **AI-powered applications and recommendation systems**
-* 🧠 Interested in **Machine Learning, NLP, RAG, and intelligent systems**
-* 🎨 I enjoy combining **UI/UX principles with modern web development**
-* 🚀 Experienced in building projects using **React, Node.js, Python, Java, and MongoDB**
-* 🔍 Currently exploring opportunities as a **Software Developer / Full-Stack Developer / AI Developer**
-
-### 🚀 Featured Project
-
-#### 🤖 PlaceMux — AI-Powered Recruitment & Recommendation Platform
-
-An enterprise-ready AI recruitment platform designed to match candidates with relevant job opportunities.
-
-**Highlights:**
-
-* AI-powered candidate-job matching
-* Hybrid recommendation and ranking system
-* Semantic search using **Sentence Transformers**
-* TF-IDF based text representation
-* Personalization and identity-aware recommendations
-* Enterprise multi-tenancy and RBAC
-* Public API and ATS integration support
-* Security hardening and penetration testing
-* DPDP / GDPR / SOC 2 compliance readiness
-* Cost optimization and MLOps capabilities
-* Monitoring, drift detection and model management
-
-**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • XGBoost • Optuna • Sentence Transformers • TF-IDF • Joblib • REST APIs • Machine Learning
+* 🎓 Computer Science & Engineering graduate
+* 💻 Passionate about **Software Development and Full-Stack Development**
+* 🤖 Exploring **Artificial Intelligence, Machine Learning, and Generative AI**
+* 🌐 Interested in building **modern and user-friendly web applications**
+* 🎨 Interested in **UI/UX design and creating intuitive user experiences**
+* 🧠 Currently strengthening my skills in **AI development, React.js, and full-stack technologies**
+* 🚀 Open to opportunities in **Software Development, Full-Stack Development, and AI/ML**
 
 ### 🛠️ Languages & Technologies
 
@@ -96,56 +74,92 @@ An enterprise-ready AI recruitment platform designed to match candidates with re
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 </a>
 
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</a>
-
 <a href="https://www.figma.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
 </a>
 
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
-<p align="left">
+* Machine Learning
+* Generative AI
+* RAG (Retrieval-Augmented Generation)
+* Natural Language Processing
+* Recommendation Systems
+* Feature Engineering
+* Model Evaluation
+* Python-based AI Development
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+### 💻 Projects
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+#### 🤖 RAG Chatbot
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+An AI-powered chatbot built using Retrieval-Augmented Generation to provide responses based on relevant retrieved information.
 
-</p>
+**Technologies:** Python • AI • RAG • NLP
 
-**Machine Learning:** Scikit-learn • XGBoost • TF-IDF • Sentence Transformers • NLP • Recommendation Systems • Model Evaluation • Feature Engineering • Model Monitoring
+#### 💬 AI Chatbot
 
-### 💼 Projects
+An interactive chatbot project focused on building conversational AI functionality.
 
-| Project                   | Description                                        | Technologies                  |
-| ------------------------- | -------------------------------------------------- | ----------------------------- |
-| 🤖 **PlaceMux**           | AI-powered recruitment and recommendation platform | Python, ML, NLP, Scikit-learn |
-| 🧠 **RAG Chatbot**        | AI chatbot using Retrieval-Augmented Generation    | Python, AI, RAG               |
-| 💬 **AI Chatbot**         | Interactive AI-based chatbot application           | JavaScript, AI                |
-| 🧘 **Kalm**               | Meditation and wellness web application            | HTML, CSS, JavaScript         |
-| 🍔 **Food Order Website** | Responsive food ordering platform                  | HTML, CSS, JavaScript         |
-| 🌦️ **Weather Forecast**  | Weather information and forecasting application    | JavaScript, API               |
-| 📄 **ResumeXpert**        | Resume-focused web application                     | React, JavaScript             |
-| 🤖 **SensAI**             | AI-powered application                             | React, AI                     |
+**Technologies:** JavaScript • AI
 
-### 📚 Currently Focused On
+#### 📄 ResumeXpert
 
-* Artificial Intelligence & Machine Learning
-* Generative AI & RAG
+A web-based project focused on resume-related functionality and improving the user experience around resumes.
+
+**Technologies:** React.js • JavaScript • HTML • CSS
+
+#### 🧘 Kalm
+
+A meditation and wellness website designed with a clean and user-friendly interface.
+
+**Technologies:** HTML • CSS • JavaScript
+
+#### 🍔 Food Order Website
+
+A responsive food ordering web application with an interactive user interface.
+
+**Technologies:** HTML • CSS • JavaScript
+
+#### 🌦️ Weather Forecast
+
+A web application that provides weather information using an external weather API.
+
+**Technologies:** HTML • CSS • JavaScript • API
+
+#### 🤖 SensAI
+
+An AI-focused application developed to explore intelligent application features.
+
+**Technologies:** React.js • JavaScript • AI
+
+### 🎨 UI/UX
+
+I enjoy designing simple, intuitive, and user-friendly interfaces using:
+
+* Figma
+* Responsive Web Design
+* User-Centered Design
+* Wireframing
+* Prototyping
+* Visual Design
+
+### 🌱 Currently Learning
+
+* Advanced React.js
 * Full-Stack Development
-* React.js & Node.js
-* Machine Learning Recommendation Systems
+* Generative AI
+* RAG Applications
+* Machine Learning
+* AI Application Development
 * UI/UX Design
-* Enterprise Software Development
 
 ### 🤝 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/nitika-kalra/" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
@@ -153,20 +167,11 @@ An enterprise-ready AI recruitment platform designed to match candidates with re
 <a href="https://github.com/nitikakalra" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
 </a>
-</p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nitikakalra&show_icons=true&locale=en" alt="Nitika's GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitikakalra" alt="Nitika's GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-⭐ Feel free to explore my repositories and connect with me!
+✨ Thanks for visiting my profile!
 </p>
